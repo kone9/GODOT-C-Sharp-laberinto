@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Mortal Kombat 2 Arcade OST - Original Music Soundtrack - Kontinue.wav-8bc9e350d55aeac330e45406d0726231.sample"
+
+[deps]
+
+source_file="res://audios/Mortal Kombat 2 Arcade OST - Original Music Soundtrack - Kontinue.wav"
+dest_files=[ "res://.import/Mortal Kombat 2 Arcade OST - Original Music Soundtrack - Kontinue.wav-8bc9e350d55aeac330e45406d0726231.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=true
+compress/mode=0
